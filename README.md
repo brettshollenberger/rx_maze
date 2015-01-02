@@ -1,4 +1,4 @@
 Rx Maze
 =========
 
-Reactive maze game with simple routines for character motion and collision detection
+Maze game to demonstrate functional reactive programming techniques with simple routines for character motion and collision detection
