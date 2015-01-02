@@ -1,0 +1,27 @@
+#man {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid black;
+    background-color: red;
+    position: relative;
+}
+
+#maze {
+    display: block;
+    width: 496px;
+    height: 496px;
+    border: 1px solid black;
+}
+
+.cell {
+    display: inline-block;
+    margin: 0px 0px -5px 0px;
+    padding: 0px;
+    width: 26px;
+    height: 26px;
+}
+
+.cell.wall {
+    background-color: black;
+}
